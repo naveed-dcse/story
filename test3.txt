@@ -1,1 +1,6 @@
 Days of joy and days of sorrow
+<<<<<<< HEAD
+=======
+
+bla bla bla
+>>>>>>> alien-plot

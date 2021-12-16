@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 main story content
+=======
+days of wisdom and days of foolishness
+
+bla bla bla
+>>>>>>> alien-plot
